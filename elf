@@ -1,0 +1,40 @@
+=> [[32m#<Appointment:0x00000002dc5eb8[0m
+  @date[32m=[0m[31m[1;31m"[0m[31mFriday, January 32nd[1;31m"[0m[31m[0m,
+  @doctor[32m=[0m[32m#<Doctor:0x00000002dc6188[0m @name[32m=[0m[31m[1;31m"[0m[31mThe Doctor[1;31m"[0m[31m[0m[32m>[0m,
+  @patient[32m=[0m[32m#<Patient:0x00000002dc5f58[0m @name[32m=[0m[31m[1;31m"[0m[31mDevin Townsend[1;31m"[0m[31m[0m[32m>[0m[32m>[0m,
+ [32m#<Appointment:0x00000003023ca0[0m
+  @date[32m=[0m[31m[1;31m"[0m[31mFriday, January 32nd[1;31m"[0m[31m[0m,
+  @doctor[32m=[0m[32m#<Doctor:0x00000003023d40[0m @name[32m=[0m[31m[1;31m"[0m[31mThe Doctor[1;31m"[0m[31m[0m[32m>[0m,
+  @patient[32m=[0m[32m#<Patient:0x00000003023cf0[0m @name[32m=[0m[31m[1;31m"[0m[31mDevin Townsend[1;31m"[0m[31m[0m[32m>[0m[32m>[0m,
+ [32m#<Appointment:0x00000003023c50[0m
+  @date[32m=[0m[31m[1;31m"[0m[31mSaturday, January 33rd[1;31m"[0m[31m[0m,
+  @doctor[32m=[0m[32m#<Doctor:0x00000003023d40[0m @name[32m=[0m[31m[1;31m"[0m[31mThe Doctor[1;31m"[0m[31m[0m[32m>[0m,
+  @patient[32m=[0m[32m#<Patient:0x00000003023cf0[0m @name[32m=[0m[31m[1;31m"[0m[31mDevin Townsend[1;31m"[0m[31m[0m[32m>[0m[32m>[0m,
+ [32m#<Appointment:0x00000003023c00[0m
+  @date[32m=[0m[31m[1;31m"[0m[31mRootenskadootenday, January 315th[1;31m"[0m[31m[0m,
+  @doctor[32m=[0m[32m#<Doctor:0x00000003023d40[0m @name[32m=[0m[31m[1;31m"[0m[31mThe Doctor[1;31m"[0m[31m[0m[32m>[0m,
+  @patient[32m=[0m[32m#<Patient:0x00000003023cf0[0m @name[32m=[0m[31m[1;31m"[0m[31mDevin Townsend[1;31m"[0m[31m[0m[32m>[0m[32m>[0m,
+ [32m#<Appointment:0x00000003020410[0m
+  @date[32m=[0m[31m[1;31m"[0m[31mFriday, January 32nd[1;31m"[0m[31m[0m,
+  @doctor[32m=[0m[32m#<Doctor:0x00000003020500[0m @name[32m=[0m[31m[1;31m"[0m[31mThe Doctor[1;31m"[0m[31m[0m[32m>[0m,
+  @patient[32m=[0m[32m#<Patient:0x000000030204b0[0m @name[32m=[0m[31m[1;31m"[0m[31mDevin Townsend[1;31m"[0m[31m[0m[32m>[0m[32m>[0m,
+ [32m#<Appointment:0x00000003016488[0m
+  @date[32m=[0m[31m[1;31m"[0m[31mFriday, January 32nd[1;31m"[0m[31m[0m,
+  @doctor[32m=[0m[32m#<Doctor:0x00000003014070[0m @name[32m=[0m[31m[1;31m"[0m[31mThe Doctor[1;31m"[0m[31m[0m[32m>[0m,
+  @patient[32m=[0m[32m#<Patient:0x00000003014020[0m @name[32m=[0m[31m[1;31m"[0m[31mDevin Townsend[1;31m"[0m[31m[0m[32m>[0m[32m>[0m,
+ [32m#<Appointment:0x00000003016758[0m
+  @date[32m=[0m[31m[1;31m"[0m[31mCaturday, January Purrty2nd[1;31m"[0m[31m[0m,
+  @doctor[32m=[0m[32m#<Doctor:0x00000003014070[0m @name[32m=[0m[31m[1;31m"[0m[31mThe Doctor[1;31m"[0m[31m[0m[32m>[0m,
+  @patient[32m=[0m[32m#<Patient:0x00000003014020[0m @name[32m=[0m[31m[1;31m"[0m[31mDevin Townsend[1;31m"[0m[31m[0m[32m>[0m[32m>[0m,
+ [32m#<Appointment:0x00000003016a50[0m
+  @date[32m=[0m[31m[1;31m"[0m[31mSatunday, January 34nd[1;31m"[0m[31m[0m,
+  @doctor[32m=[0m[32m#<Doctor:0x00000003014070[0m @name[32m=[0m[31m[1;31m"[0m[31mThe Doctor[1;31m"[0m[31m[0m[32m>[0m,
+  @patient[32m=[0m[32m#<Patient:0x00000003014020[0m @name[32m=[0m[31m[1;31m"[0m[31mDevin Townsend[1;31m"[0m[31m[0m[32m>[0m[32m>[0m,
+ [32m#<Appointment:0x00000003009558[0m
+  @date[32m=[0m[31m[1;31m"[0m[31mFriday, January 32nd[1;31m"[0m[31m[0m,
+  @doctor[32m=[0m[32m#<Doctor:0x00000003009788[0m @name[32m=[0m[31m[1;31m"[0m[31mThe Doctor[1;31m"[0m[31m[0m[32m>[0m,
+  @patient[32m=[0m[32m#<Patient:0x00000003009738[0m @name[32m=[0m[31m[1;31m"[0m[31mDevin Townsend[1;31m"[0m[31m[0m[32m>[0m[32m>[0m,
+ [32m#<Appointment:0x00000003161ef0[0m
+  @date[32m=[0m[31m[1;31m"[0m[31mFriday, January 32nd[1;31m"[0m[31m[0m,
+  @doctor[32m=[0m[32m#<Doctor:0x00000003161f90[0m @name[32m=[0m[31m[1;31m"[0m[31mThe Doctor[1;31m"[0m[31m[0m[32m>[0m,
+  @patient[32m=[0m[32m#<Patient:0x00000003161f40[0m @name[32m=[0m[31m[1;31m"[0m[31mDevin Townsend[1;31m"[0m[31m[0m[32m>[0m[32m>[0m]
