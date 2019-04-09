@@ -1,17 +1,14 @@
 require "pry"
 
 class Artist 
-  attr_accessor :name, :song 
-  attr_writer :genre 
+  attr_accessor :name
   
  @@all = []
   
   def initialize(name)
     @name = name 
     @@all << self 
-    @songs = []
-    @artist = self
-    @genre = Genre
+   
   end 
   
   def self.all 
@@ -19,15 +16,25 @@ class Artist
   end 
   
   def new_song(name, genre)
-   song = Song.new(name)
-   genre = Genre.new(genre)
-   @artist.song = song
-   @artist.genre = genre
+   song = Song.new(name, self, genre)
+  
+  
   #  binding.pry
     
   end 
   
   def songs 
-    @songs 
+   # binding.pry
+    Song.all.select {|song| song.artist == self}
+    # Select all of this artists songs from Song.all
+  end 
+  
+  def genres
+    songs.collect {|song| 
+       song.genre
+     }
+     
+    #binding.pry 
+    
   end 
 end 
